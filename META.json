@@ -40,10 +40,10 @@
    "provides" : {
       "LaTeX::Pod" : {
          "file" : "lib/LaTeX/Pod.pm",
-         "version" : "0.21_01"
+         "version" : "0.22"
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -52,6 +52,6 @@
          "url" : "https://github.com/stsc/LaTeX-Pod"
       }
    },
-   "version" : "0.21_01",
+   "version" : "0.22",
    "x_serialization_backend" : "JSON::PP version 4.04"
 }

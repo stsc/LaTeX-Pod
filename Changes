@@ -1,5 +1,9 @@
 Revision history for Perl extension LaTeX::Pod.
 
+0.22  2023-01-23  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.21_01  2023-01-22  <schubiger@cpan.org>
 
  - Move testing modules to test_requires.
